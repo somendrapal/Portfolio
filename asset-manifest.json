@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.4e558664.css",
+    "main.js": "/Portfolio/static/js/main.650fb920.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/fhiraa.png": "/Portfolio/static/media/fhiraa.7975d89c87f256e926eb.png",
+    "static/media/Somendra_Resume.pdf": "/Portfolio/static/media/Somendra_Resume.dfc080f669663cd4a892.pdf",
+    "static/media/Chatbotpage.jpeg": "/Portfolio/static/media/Chatbotpage.934a0dd526c784a64711.jpeg",
+    "static/media/WhatsApp Image 2023-02-24 at 11.10.38 PM.jpeg": "/Portfolio/static/media/WhatsApp Image 2023-02-24 at 11.10.38 PM.13cca5a25bdc332ec8a2.jpeg",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/patient.jpeg": "/Portfolio/static/media/patient.4337dabd87f09175f1e1.jpeg",
+    "static/media/Chatbot.jpeg": "/Portfolio/static/media/Chatbot.f0974bae730abb93a320.jpeg",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.4e558664.css.map": "/Portfolio/static/css/main.4e558664.css.map",
+    "main.650fb920.js.map": "/Portfolio/static/js/main.650fb920.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e558664.css",
+    "static/js/main.650fb920.js"
+  ]
+}
